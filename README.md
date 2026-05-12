@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I'm Brikesh Yadav 👋
 
-<!--
-**bri-kesh/bri-kesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ Hey, I'm Brikesh — a student at LaGuardia Community College learning full-stack development and building my GitHub portfolio one project at a time.
 
-Here are some ideas to get you started:
+## 🛠 What I'm learning right now
+- HTML, CSS & responsive design
+- JavaScript (DOM, async/await, APIs)
+- Backend basics (Node.js / databases)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎯 What I'm working on
+
+- 🏗️ Currently building my first HTML/CSS portfolio site
+- 🪄 Next up: JavaScript projects and my first full-stack app
+- 🤝 Looking to collaborate on beginner-friendly open source projects
+
+## 📫 How to reach me
+
+- Email: brikeshchandra.yadav88@lagcc.cuny.edu
+- LinkedIn: (https://www.linkedin.com/in/brikesh-chandra-yadav/)
+
+
+## ⚡ A little more about me
+
+- 🎓 Enrolled at LaGuardia Community College (LAGCC)
+- 💬 Ask me about my coding journey as a student
+- ⚡ Fun fact: I've celebrated the same New Year in three different countries
+
+---
+
+
