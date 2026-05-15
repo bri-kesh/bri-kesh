@@ -1,6 +1,6 @@
-# Hi, I'm Brikesh Yadav 👋
+# Hi👋
 
- Hey, I'm Brikesh — a student at LaGuardia Community College learning full-stack development and building my GitHub portfolio one project at a time.
+ Hi, I'm Brikesh — a student at LaGuardia Community College learning full-stack development and building my GitHub portfolio one project at a time.
 
 ## 🛠 What I'm learning right now
 - HTML, CSS & responsive design
