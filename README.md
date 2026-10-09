@@ -1,6 +1,6 @@
 # Hi👋
 
- Hi, I'm Brikesh — a student at LaGuardia Community College learning full-stack development and building my GitHub portfolio one project at a time.
+ Hi, I'm Brikesh — a student at Queens College learning full-stack development and building my GitHub portfolio one project at a time.
 
 ## 🛠 What I'm learning right now
 - HTML, CSS & responsive design
@@ -21,7 +21,7 @@
 
 ## ⚡ A little more about me
 
-- 🎓 Enrolled at LaGuardia Community College (LAGCC)
+- 🎓 Enrolled at Queens College
 - 💬 Ask me about my coding journey as a student
 - ⚡ Fun fact: I've celebrated the same New Year in three different countries
 
